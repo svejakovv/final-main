@@ -1,3 +1,4 @@
+// Test comment for the CI/CD pull request
 package main
 
 import (
